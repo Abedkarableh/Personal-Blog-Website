@@ -1,0 +1,26 @@
+@import url("main.css");
+
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.links li {
+    list-style: none;
+    display: flex;
+}
+
+.links a {
+    color: #fff;
+    border-radius: 13px;
+    background-color: #3c9af1;
+    padding: 7px;
+    text-decoration: none;
+    transition: 0.3s ease;
+    margin: 20px;
+}
+
+.links a:hover {
+    background-color: #1785ec;
+}

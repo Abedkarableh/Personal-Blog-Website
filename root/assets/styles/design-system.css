@@ -1,0 +1,212 @@
+@import url("main.css");
+@media (max-width: 600px) {
+    .container {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .content {
+        padding: 20px 50px 0 50px;
+
+    }
+
+    .back-link a {
+        margin-left: 10px;
+        color: #3c9af1;
+        text-decoration: none;
+    }
+
+    .back-link {
+        color: #3c9af1;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        margin: 15px;
+    }
+
+    .colors {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .colors p {
+        border-radius: 50%;
+        height: 100px;
+        width: 100px;
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 5px;
+    }
+
+
+    .colors .c1 {
+        background-color: #2d2e32;
+    }
+
+    .colors .c2 {
+        background-color: #2d2e32;
+    }
+
+    .colors .c3 {
+        background-color: #00000040;
+    }
+
+    .colors .c4 {
+        background-color: #3c9af1;
+    }
+
+    .colors .c5 {
+        background-color: #7c7d81;
+    }
+
+    .colors .c6 {
+        background-color: #1785ec;
+    }
+
+    .colors .c7 {
+        background-color: bisque;
+    }
+}
+
+@media (min-width: 601px) and (max-width:900px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .content {
+        padding: 20px 50px 0 50px;
+
+    }
+
+    .back-link a {
+        margin-left: 10px;
+        color: #3c9af1;
+        text-decoration: none;
+    }
+
+    .back-link {
+        color: #3c9af1;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        margin: 15px;
+    }
+
+    .colors {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .colors p {
+        border-radius: 50%;
+        height: 100px;
+        width: 100px;
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 5px;
+    }
+
+
+    .colors .c1 {
+        background-color: #2d2e32;
+    }
+
+    .colors .c2 {
+        background-color: #2d2e32;
+    }
+
+    .colors .c3 {
+        background-color: #00000040;
+    }
+
+    .colors .c4 {
+        background-color: #3c9af1;
+    }
+
+    .colors .c5 {
+        background-color: #7c7d81;
+    }
+
+    .colors .c6 {
+        background-color: #1785ec;
+    }
+
+    .colors .c7 {
+        background-color: bisque;
+    }
+}
+
+@media (min-width:901px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .back-link a {
+        margin-left: 10px;
+        color: #3c9af1;
+        text-decoration: none;
+    }
+
+    .back-link {
+        color: #3c9af1;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        margin: 15px;
+    }
+
+    .colors {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .colors p {
+        border-radius: 50%;
+        height: 100px;
+        width: 100px;
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 5px;
+    }
+
+
+    .colors .c1 {
+        background-color: #2d2e32;
+    }
+
+    .colors .c2 {
+        background-color: #2d2e32;
+    }
+
+    .colors .c3 {
+        background-color: #00000040;
+    }
+
+    .colors .c4 {
+        background-color: #3c9af1;
+    }
+
+    .colors .c5 {
+        background-color: #7c7d81;
+    }
+
+    .colors .c6 {
+        background-color: #1785ec;
+    }
+
+    .colors .c7 {
+        background-color: bisque;
+    }
+}
